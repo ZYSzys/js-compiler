@@ -5,6 +5,8 @@
 
 👉 [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
 
+👉 [the-super-tiny-compiler-cn](https://github.com/starkwang/the-super-tiny-compiler-cn)
+
 
 ## Test
 ```sh
